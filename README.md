@@ -7,7 +7,7 @@
 Record your app. Drop it into a shiny phone. Add a background, big words, captions and music.
 Share a promo that looks like it came from a studio — in about a minute.
 
-[![Download APK](https://img.shields.io/badge/Download-LaunchReel%20v0.2.0%20APK-6C4CF1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/smartrixlabs/LaunchReel/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-LaunchReel%20v0.2.1%20APK-6C4CF1?style=for-the-badge&logo=android&logoColor=white)](https://github.com/smartrixlabs/LaunchReel/releases/latest)
 [![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#-install)
 [![Works offline](https://img.shields.io/badge/Works-Offline-0EA5E9?style=for-the-badge)](#-privacy)
 
@@ -103,6 +103,6 @@ Android app in minutes: no coding, push notifications, offline pages and a Play-
 
 <div align="center">
 
-Made by [Smartrix Labs](https://github.com/smartrixlabs) · Licensed under the [MIT License](LICENSE)
+Made by [Smartrix Labs](https://github.com/smartrixlabs) · Licensed under the [Apache License 2.0](LICENSE)
 
 </div>
